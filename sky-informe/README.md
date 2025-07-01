@@ -31,6 +31,12 @@ A função `MoverIconeParaPosicao()` percorre os objetos visuais da aba ativa e 
 
 ---
 
+## Visual
+
+![dashboard1](dashboard1.png)
+
+---
+
 ## Organização do repositório
 
 - `Sky_Informe.xlsx` — Arquivo principal da planilha
