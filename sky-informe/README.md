@@ -31,10 +31,10 @@ A planilha utiliza a função `MoverIconeParaPosicao()`, em VBA, para reposicion
 ![notas](images/notas.png)
 
 ### Código VBA aplicado  
-![codigovba](images/codigovba.png)
+![codigovba](images/codigovba.jpeg)
 
 ### Proteção da planilha  
-![protegerplanilha](images/protegerplanilha.png)
+![protegerplanilha](images/protegerplanilha.jpeg)
 
 ## Arquivo  
 `Sky_Informe.xlsx`: planilha principal
