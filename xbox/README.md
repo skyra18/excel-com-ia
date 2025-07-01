@@ -16,6 +16,10 @@ Desenvolver um painel dinâmico e visualmente organizado que permita:
 - Gráficos dinâmicos
 - Tabelas dinâmicas
 
+## Visual
+
+![Dashboardxbox](dashboardxbox.png)
+
 ## Estrutura do projeto
 
 - `dashboard_xbox.xlsx` — Arquivo principal do Excel contendo o painel interativo
